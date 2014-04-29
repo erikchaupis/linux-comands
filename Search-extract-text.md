@@ -1,4 +1,3 @@
-
 1)	Print line  of file verizon.log.2014-03-30  that contains '2014-03-30 11:04:02,595' 
 grep -n '2014-03-30 11:04:02,595' verizon.log.2014-03-30
 
