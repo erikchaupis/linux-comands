@@ -1,3 +1,3 @@
 Find per user
 -------------------------
- ps -ef | grep -i <USER>
+ ps -ef | grep -i [USER]
