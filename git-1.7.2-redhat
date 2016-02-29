@@ -1,0 +1,1 @@
+yum install http://pkgs.repoforge.org/git/perl-Git-1.7.12.4-1.el6.rfx.x86_64.rpm  http://pkgs.repoforge.org/git/git-1.7.12.4-1.el6.rfx.i686.rpm
